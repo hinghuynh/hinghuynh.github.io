@@ -1,0 +1,31 @@
+body,
+html {
+margin:0;
+padding:0;
+color:#000;
+background-image:url("https://s3.amazonaws.com/ooomf-com-files/vHCIoA1RoaoQNsDXrtxQ_DSC_0983.JPG");
+background-repeat:no-repeat;
+background-size: 100%;
+}
+
+#body {
+width:900px;
+margin:15px auto;
+}
+
+#header {
+	text-align:center;
+	color: steelblue;
+	font-weight: 900;
+}
+
+#footer {
+	text-align:right;
+	font-style:italic;
+	font-size:75%;
+	}
+
+li{
+	text-align:center;
+	font-size:120%}
+}
