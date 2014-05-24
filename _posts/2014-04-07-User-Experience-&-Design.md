@@ -4,7 +4,7 @@ DBC Phase 0 Week 1 Blogpost
 So I originally didn't really know what sitesto use for my blogpost. I ended deciding to pick three personal sites for freelancers to do my blogpost on. I thought I may one day want to have my own personal site for freelance work, so why not analyze three right now. The following three sites are my favorite.
 
 WMC, Front-end Developer
-
+![alt tag](/unit1_projects/images/site1.png?raw=true)
 
 User Experience
 
@@ -26,7 +26,7 @@ Design
 Once again, this person uses a three color scheme of light blue, grey, and black. I like this color scheme is more than the first site. Another very minimalist design. As you can probably tell, I am a really big fan of minimalism. Despite not having any interactive stuff to click, there is at least a changing image in the middle of the front page, which gets rid of that static page feel.
 
 Gonzalves, Freelance Multimedia craftsman!
-
+![alt tag](/unit1_projects/images/site3.png?raw=true)
 
 User Experience
 
