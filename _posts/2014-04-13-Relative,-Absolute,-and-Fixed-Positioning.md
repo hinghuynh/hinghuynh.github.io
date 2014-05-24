@@ -1,20 +1,3 @@
-<dependency>
-  <groupId>image-resizer</groupId>
-  <artifactId>image-resizer</artifactId>
-  <version>0.1.6</version>
-</dependency>
-
-(require [image-resizer.crop :refer :all])
-(require [image-resizer.resize :refer :all])
-(require [image-resizer.pad :refer :all])
-(require [image-resizer.rotate :refer :all])
-
-(-> image
-    ((resize-fn 100 100))
-    ((crop-fn 100 100))
-    ((rotate-vertically-fn))
-    ((pad-fn 10)))
-    
 What are the differences between relative, absolute, and fixed positioning?
 
 First Let's Start with Relative Position
