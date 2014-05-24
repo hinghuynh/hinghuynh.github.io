@@ -1,3 +1,10 @@
+---
+layout: post
+title: Paring and Giving Feedback
+date: April 20, 2014
+category: code
+customid: week3culturalblog
+---
 This week I probably had the most fun doing my homework so far. I was pairing up almost every day of the week, it really got addictive to be able to collaborate with other minds to solve problems. 
 
 I really love when people bring different strengths the table, it really allows efficient allocation of brain power when trying to solve a difficult problem. Generally if when I would get stuck while working alone, I would spend minutes just staring at my code, with no immediate answer. Which would end with break sessions hoping for random flashes of insight or I would spend a lot more time researching through trial and error. Whereas with other people, errors in our thought process were immediately noticed and corrected. Less time was spent thinking about the problem, and more time was spent writing, tinkering and modifying code. 
