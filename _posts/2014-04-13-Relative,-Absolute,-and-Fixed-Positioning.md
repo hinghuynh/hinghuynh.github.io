@@ -1,3 +1,11 @@
+
+---
+layout: post
+title: Relative, Absolute, and Fixed Positioning
+date: April 13, 2014
+category: code
+customid: week2technicalblog
+---
 What are the differences between relative, absolute, and fixed positioning?
 
 First Let's Start with Relative Position
