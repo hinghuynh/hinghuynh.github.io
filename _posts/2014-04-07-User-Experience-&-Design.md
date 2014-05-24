@@ -15,7 +15,7 @@ Design
 I really like the three color scheme approach with white, black, aqua. There is very little text, making the design very clean. I also really like the way the map loads up in such a nice sequential way, instead of it loading up all at once.
 
 Kerem, San Francisco-based Designer of Digital Products
-
+![alt tag](/unit1_projects/images/site2.png?raw=true)
 
 User Experience
 
