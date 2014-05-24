@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Functional Programming vs Objected-orientated Programming
+title: Functional Programming vs Objected-Orientated Programming
 date: May 10, 2014
 category: code
 customid: week6technicalblog
