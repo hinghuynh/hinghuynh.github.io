@@ -5,7 +5,7 @@ profile_name: Hing Huynh
 website_url: http://hinghuynh.github.io/
 website_url_text: This is a nice blog with stuff
 website_url_about: http://hinghuynh.github.io/about
-website_name: Hing Huynh's Blog
+website_name: hinghuynh.github.io
 email_with_subject: mailto:hinghuynh@gmail.com?subject=hi
 twitter: hinghuynh
 feed_url: <?php bloginfo('rss2_url'); ?>
