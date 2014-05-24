@@ -1,4 +1,12 @@
 
+---
+layout: post
+title: User Experience & Design
+date: April 07, 2014
+category: code
+customid: week1technicalblog
+---
+
 DBC Phase 0 Week 1 Blogpost
 
 So I originally didn't really know what sitesto use for my blogpost. I ended deciding to pick three personal sites for freelancers to do my blogpost on. I thought I may one day want to have my own personal site for freelance work, so why not analyze three right now. The following three sites are my favorite.

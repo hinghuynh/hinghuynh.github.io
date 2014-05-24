@@ -1,3 +1,12 @@
+---
+layout: post
+title: Phase 0 Week 1 Reflections
+date: April 07, 2014
+category: code
+customid: week1reflections
+---
+
+
 Exercise 1
 
 When you think of the times in your life where you’ve been the happiest, the proudest, or the most satisfied, which of the following values come to mind?
