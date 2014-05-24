@@ -8,7 +8,7 @@ website_url_about: http://hinghuynh.github.io/about
 website_name: hinghuynh.github.io
 email_with_subject: mailto:hinghuynh@gmail.com?subject=hi
 twitter: hinghuynh
-feed_url: <?php bloginfo('rss2_url'); ?>
+feed_url: http://feedurlhere.com
 typekit_url: typekiturlhere
 ga_account: your-ga-code-here
 ga_domain: http://hinghuynh.github.io/
