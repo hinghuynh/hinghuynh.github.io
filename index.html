@@ -1,37 +1,20 @@
-<!DOCTYPE html>
-<html>
-	<head>
-		<link rel="stylesheet" type="text/css" href="unit1_projects\stylesheets\reset.css">
-		<link rel="stylesheet" type="text/css" href="unit1_projects\stylesheets\index.css">
-		<title>hing's github.io</title>
-	</head>
-	<body>
-		<header>
-			<div id="logo">
-				<img src="unit1_projects/images/devlogo.png"/>
-			</div>
+---
+layout: default
+---
 
-			<nav>
-				<ol>
-					<a href="mailto:hinghuynh@gmail.com"><li>Contact</li></a>
-					<a href="unit1_projects/my_wireframe.html"><li>About</li></a>
-					<a href="unit1_projects/week2_technical.html"><li>Blog</li></a>
-					<a href="unit1_projects/pair_program.html"><li>Works</li></a>
-				</ol>
-			</nav>
-		</header>
-		<div id="Wrapper">
-  			<div id="Content">
-  				<div id="Picture">
-  					<img src="unit1_projects/images/devinprogress.png"/>
-  				</div>
-  				<div id="Picture2">
-  					<img src="unit1_projects/images/journey.png"/>
-  				</div>
-			</div>
-		</div>
-		<footer>
-			<p>site designed by @hinghuynh &copy; 2014 all rights reserved</p>
-		</footer>
-	</body>
-</html>
+<div class="home">
+
+  <h1>Posts</h1>
+
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

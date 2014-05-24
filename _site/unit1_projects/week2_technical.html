@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="stylesheets\reset.css">
+		<link rel="stylesheet" type="text/css" href="stylesheets\week2_technical.css">
+		<title>hing's github.io</title>
+	</head>
+	<body>
+		<header>
+			<div id="logo">
+				<img src="images/devlogo.png"/>
+			</div>
+
+			<nav>
+				<ol>
+					<a href="mailto:hinghuynh@gmail.com"><li>Contact</li></a>
+					<a href="unit1_projects/dbc1.html"><li>About</li></a>
+					<a href="unit1_projects/blog.html"><li>Blog</li></a>
+					<a href="unit1_projects/pair_program.html"><li>Works</li></a>
+				</ol>
+			</nav>
+		</header>
+		<div id="Wrapper">
+  			<div id="Content">
+  				<div id="Text">
+	  					<br>
+	  					<br>
+	  					<br>
+	  					<br>
+	  					<h1 class="heading">What are the differences between relative, absolute, and fixed positioning?
+	  					</h1>
+	  					<br>
+						<p class="title">		
+						First Let's Start with Relative Position 
+						</p>
+						<br>
+						<p>
+						You want to use relative position when you want to adjust a specific object's position without affecting the positon of any of the other objects. For instance, say I use &quot;top:100px;&quot;. This would move the object down 100 pixels from the top of it's current position, but doesn't move any other objects down 100 pixels.  For the purposes of illustrating this point, I will be moving around a happy face icon. 
+						</p>
+						<br>
+						<img src="images/relative1.png">
+						<img src="images/relative2.png">
+						<br><br>
+						<p class="title">Okay, so What's Absolute Position used for?
+						</p>
+						<br>
+						<p>
+						With position absolute, your object overrides starting position which starts within the position of your element.  For instance if I used &quot;top:0px;&quot;, &quot;left:0px;&quot;, this would put the object at the most top left of the page overriding the default position of the most top left position of an element, like the header.  Absolute overrides to position relative to the parent element.  This is shown in the example to the left below. To change parent element to another element instead of the entire page, add &quot;position: relative;&quot; to another nearby element.  This is shown in the example to the right below.  I set the content element position to relative to get my icon move with respect to the confines of the content borders.
+						</p>
+						<br>
+						<img src="images/absolute1.png">
+						<img src="images/absolute2.png">
+						<br><br>
+						<p class="title"> Why do we need Fixed Position then?
+						</p>
+						<br>
+						<p>
+						Absolute and Fixed are similar in that is overrides to be relative to parent position, but the key difference is that fixed will stay in the same position on the screen, even after scrolling/resizing. Whereas absolute will stay in the same place on the page, and move up as you scroll down. For this example I placed the the icon using &quot;bottom:0px;&quot;, &quot;right:0px;&quot; with a fixed position. Notice what happens when I scrolled.
+						</p>
+						<br>
+						<img src="images/fixed1.png">
+						<img src="images/fixed2.png">
+				</div>
+			</div>
+		</div>
+		<footer>
+			<p>site designed by @hinghuynh &copy; 2014 all rights reserved</p>
+		</footer>
+	</body>
+</html>
