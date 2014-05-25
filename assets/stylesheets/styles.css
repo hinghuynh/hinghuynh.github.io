@@ -55,12 +55,12 @@ a:visited {
 }
 
 /* Colors Guide 
-    red:    #2A4480
+    red:    #73b6e5
     gray:   #909090
 */
 
 .avatar {
-  background-color: #2A4480;
+  background-color: #73b6e5;
   border-radius: 50%;
   height: 90px;
   width: 90px;
@@ -147,7 +147,7 @@ a:visited {
 }
 
 .mlogotype a {
-  color: #2A4480;
+  color: #73b6e5;
 }
 
 .main-header {
@@ -167,7 +167,7 @@ a:visited {
   line-height: 28px;
   font-size: 28px;
   font-weight: bold;
-  color: #2A4480;
+  color: #73b6e5;
   height: 45px;
 }
 
@@ -176,7 +176,7 @@ a:visited {
 }
 
 .profile-name:visited {
-  color: #2A4480;
+  color: #73b6e5;
 }
 
 .subtitle {
@@ -208,7 +208,7 @@ a:visited {
 }
 
 .profile-links > li:hover span {
-  background-color: #2A4480;
+  background-color: #73b6e5;
   color: #fff;
 }
 
@@ -321,7 +321,7 @@ article:nth-child(3)::before,
 
 .tag,
 article::before {
-  color:#2A4480;
+  color:#73b6e5;
   font-weight: bold;
 }
 
@@ -340,7 +340,7 @@ article::before {
 }
 
 .post .title:hover {
-  color: #2A4480;
+  color: #73b6e5;
 }
 
 .post p {
@@ -437,7 +437,7 @@ article .read-more.button{
 .read-more {
   line-height: 27px;
   font-size: 17px;
-  color: #2A4480;
+  color: #73b6e5;
   font-weight: bold;
 }
 
@@ -449,7 +449,7 @@ article .read-more.button{
   border-radius: 40px;
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
-  background: #2A4480 url(https://dtu1xr3i3b2a1.cloudfront.net/cargo/icons/arrow_right_padded-8dc031e52ae66d541aca2f2d44c6863c.png) no-repeat 100% 10px;
+  background: #73b6e5 url(https://dtu1xr3i3b2a1.cloudfront.net/cargo/icons/arrow_right_padded-8dc031e52ae66d541aca2f2d44c6863c.png) no-repeat 100% 10px;
   background-origin: padding-box;
   background-size: 25px 10px;
   font-weight: bold;
@@ -687,8 +687,8 @@ nav.pagination span.next {
 
 .link:hover,
 .bottom_tagline span:hover {
-  color: #2A4480;
-  border-color: #2A4480;
+  color: #73b6e5;
+  border-color: #73b6e5;
 }
 
 .linkout {
@@ -723,7 +723,7 @@ nav.pagination span.next {
   font-size: 10px;
   color: #e5e5e5;
   border-top: 1px solid #f8f8f8;
-  border-bottom: 24px solid #2A4480;
+  border-bottom: 24px solid #73b6e5;
   z-index: 20;
 }
 
@@ -785,8 +785,8 @@ nav.pagination span.next {
 }
 
 .detail-view .profile-name:hover  a {
-  border-bottom: 3px solid #2A4480;
-  color: #2A4480;
+  border-bottom: 3px solid #73b6e5;
+  color: #73b6e5;
 }
 
 .detail-view .avatar {
@@ -835,7 +835,7 @@ nav.pagination span.next {
 }
 
 .first-post .post.detail-view .title a:hover {
-  border-color: #2A4480;
+  border-color: #73b6e5;
 }
 
 .post.detail-view .anchor-icon {
@@ -848,8 +848,8 @@ nav.pagination span.next {
 }
 
 .post.detail-view a:hover {
-  color: #2A4480;
-  border-color: #2A4480;
+  color: #73b6e5;
+  border-color: #73b6e5;
 }
 
 
@@ -968,17 +968,17 @@ nav.pagination span.next {
 
 @-webkit-keyframes titlePulse {
   0% {color: #000;}
-  100% {color: #2A4480;}
+  100% {color: #73b6e5;}
 }
 
 @-webkit-keyframes pulsate {
   0% {color: #000;}
-  100% {color: #2A4480;}
+  100% {color: #73b6e5;}
 }
 
 @keyframes pulsate {
   0% {color: #000;}
-  100% {color: #2A4480;}
+  100% {color: #73b6e5;}
 }
 
 .instapaper,
