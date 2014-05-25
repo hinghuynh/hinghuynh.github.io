@@ -1,36 +1,53 @@
 <article class="post detail-view" id="{{post.customid}}">
-  <h1 class="title"><a href="#">{{ post.title }}</a></h1>
-  <a href="#" class="anchor-icon">
-    <i class="fa fa-anchor"></i>
-    <time datetime="{{site.time}}">{{ post.date | date: "%b %d, %Y"  }}</time>
-  </a>
-  {% if content %}
-    {{ content }}
-  {% else %}
-    {{ post.content }}
-  {% endif %}
-  <footer class="group">
-    <p>
-      {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
-      {% capture current_year %}{{ site.time | date: '%Y' }}{% endcapture %}
-      {% if post_year != current_year %}
-        {% capture date_format %}%A, %B %e %Y{% endcapture %}
-      {% else %}
-        {% capture date_format %}%A, %B %e{% endcapture %}
-      {% endif %}
-      {% if post.source %}
-        <a class="icon" href="{{ post.source }}" title="{{ post.title }}" rel="external">Source</a>
-      {% else %}
-      <a class="instapaper" href="http://www.instapaper.com/hello2?u={{ site.url | url_encode }}{{ post.url | url_encode }}&amp;title={{ post.title | url_encode }}" rel="alternate" title="Save to Instapaper">Read Later</a>
-      {% endif %}
-    </p>
-  </footer>
-  {% if post.kudos %}
-    <script>
-      $(function() {
-        (new Kudos({name:"kudos_"+ Math.floor(new Date().getTime() * Math.random()), articleId:"{{post.customid}}", articleTitle: "{{post.title}}", articleUrl:"{{post.url}}"})).render($("article#{{post.customid}}"));
-        (new Kudos({name:"2kudos_"+ Math.floor(new Date().getTime() * Math.random()), articleId:"{{post.customid}}", articleTitle: "{{post.title}}", articleUrl:"{{post.url}}"})).render($(".group"));
-      });
+    <h1 class="title"><a href="#">{{ post.title }}</a>
+    </h1>
+    <a href="#" class="anchor-icon">
+        <i class="fa fa-anchor"></i>
+        <time datetime="{{site.time}}">{{ post.date | date: "%b %d, %Y" }}</time>
+    </a>
+    {% if content %} {{ content }} {% else %} {{ post.content }} {% endif %} {% if page.comments %}
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'hinghuynh'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script');
+        dsq.type = 'text/javascript';
+        dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
     </script>
-  {% endif %}
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+    </noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a> {% endif %}
+    <footer class="group">
+        <p>
+            {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %} {% capture current_year %}{{ site.time | date: '%Y' }}{% endcapture %} {% if post_year != current_year %} {% capture date_format %}%A, %B %e %Y{% endcapture %} {% else %} {% capture date_format %}%A, %B %e{% endcapture %} {% endif %} {% if post.source %}
+            <a class="icon" href="{{ post.source }}" title="{{ post.title }}" rel="external">Source</a>
+            {% else %}
+            <a class="instapaper" href="http://www.instapaper.com/hello2?u={{ site.url | url_encode }}{{ post.url | url_encode }}&amp;title={{ post.title | url_encode }}" rel="alternate" title="Save to Instapaper">Read Later</a>
+            {% endif %}
+        </p>
+    </footer>
+    {% if post.kudos %}
+    <script>
+    $(function() {
+        (new Kudos({
+            name: "kudos_" + Math.floor(new Date().getTime() * Math.random()),
+            articleId: "{{post.customid}}",
+            articleTitle: "{{post.title}}",
+            articleUrl: "{{post.url}}"
+        })).render($("article#{{post.customid}}"));
+        (new Kudos({
+            name: "2kudos_" + Math.floor(new Date().getTime() * Math.random()),
+            articleId: "{{post.customid}}",
+            articleTitle: "{{post.title}}",
+            articleUrl: "{{post.url}}"
+        })).render($(".group"));
+    });
+    </script>
+    {% endif %}
 </article>
