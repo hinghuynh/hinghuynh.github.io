@@ -11,27 +11,27 @@ customid: week8technicalblog
 
 #####Syntax
 
-```
-{
-  "property 1": value1,
-  property2: value2,
-  number: value3
-}
-```
+
+|{							|
+|  "property 1": value1,	|
+|  property2: value2,		|
+|  number: value3			|
+|}							|
+
 #####Example
 
-```
-var obj = {
-  name: "Hing",
-  married: false,
-  "mother's name": "Lynn",
-  "year of birth": 1988,
-  getAge: function () {
-    return 2014 - obj["year of birth"];
-  },
-  1: 'one'
-};
-```
+
+|var obj = {								|
+|  name: "Hing",							|
+|  married: false,							|
+|  "mother's name": "Lynn",					|
+|  "year of birth": 1988,					|	
+|  getAge: function () {					|
+|    return 2014 - obj["year of birth"];	|
+|  },										|
+|  1: 'one'									|
+|};											|
+
 #####Property Access 
 
 ```
