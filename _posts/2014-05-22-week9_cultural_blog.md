@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Chefs in the Kitchen
-date: May 23, 2014
+date: May 22, 2014
 category: code
 comments: true
-customid: week8technicalblog2
+customid: week9culturalblog
 ---
 After listening to [Shereef’s Fireside Chat](http://vimeo.com/85001014) about Kitchen vs. Table, I’m even more excited about attending Dev Bootcamp.  After all the positive things that I read about, and have heard about Dev Bootcamp since applying till now has raised my expectations so high, that I’m now a little scared that I’m going to be disappointed. Dev bootcamp just sounds like the college experience I wished I had, but never got to experience.  
 I literally applied to Dev Bootcamp a week after the idea of possibly becoming a programmer.  When applying I had only about a week of ruby tutorials as my programming experience. I applied to the boot camp with a table mindset.  Thinking this would be a good way to find a high paying job secure job, key emphasis on “secure.”  I’m at point in my life where a stable nine to five job with a steady paycheck is super appealing.  My thought process went only as far as if I did the work required of me, I would have a high chance of landing a high paying junior developer position.  I didn’t really know if I was going to really enjoy programming or expect to enjoy the learning experience.  
