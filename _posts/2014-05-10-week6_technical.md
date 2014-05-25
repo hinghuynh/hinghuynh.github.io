@@ -3,6 +3,7 @@ layout: post
 title: Functional Programming vs Objected-Orientated Programming
 date: May 10, 2014
 category: code
+comments: true
 customid: week6technicalblog
 ---
 Functional Programming seems to break down programs into functions that perform some operations whereas in object-oriented programming, programs are broken into classes that give behavior to some kind of data input that class represents.

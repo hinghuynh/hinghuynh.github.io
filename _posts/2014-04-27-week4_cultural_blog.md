@@ -3,6 +3,7 @@ layout: post
 title: Dealing with Conflict
 date: April 27, 2014
 category: code
+comments: true
 customid: week4culturalblog
 ---
 When it comes to conflict for me the easiest way for me to deal with it is generally to attack myself. I generally like to think of what all the possibilities of what I did wrong and what I could have done better. However I noticed that, when I have the least amount of tolerance for annoyances when I'm stress. If tolerance is a form of will power, the more stressed I am, the less I can tolerate annoyances. One of things that I struggle with is listening to mindless chatters that go nowhere. My dad likes to talk, but most of the time when it talks he goes in circles and repeats things over and over. When I'm in a good mood, I will usually make the effort to listen. But if I've had a rough day, then it becomes increasingly difficult to listen to his repetitive rants. 

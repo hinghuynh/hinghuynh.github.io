@@ -3,6 +3,7 @@ layout: post
 title: Ruby Loops
 date: April 27, 2014
 category: code
+comments: true
 customid: week4technicalblog
 ---
 Which one should I use?

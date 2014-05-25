@@ -3,6 +3,7 @@ layout: post
 title: Classes and Objects
 date: May 3, 2014
 category: code
+comments: true
 customid: week5technicalblog
 ---
 Ruby is an object orientated programming language, what this means is that whenever you are creating an instance of a class, you are creating an object. Objects are often used to model the real-world objects that you find in everyday life. How we used these objects is through the manipulations with the use of messages.

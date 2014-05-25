@@ -4,6 +4,7 @@ layout: post
 title: User Experience & Design
 date: April 07, 2014
 category: code
+comments: true
 customid: week1technicalblog
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: Paring and Giving Feedback
 date: April 20, 2014
 category: code
+comments: true
 customid: week3culturalblog
 ---
 This week I probably had the most fun doing my homework so far. I was pairing up almost every day of the week, it really got addictive to be able to collaborate with other minds to solve problems. 

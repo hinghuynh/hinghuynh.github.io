@@ -3,6 +3,7 @@ layout: post
 title: The Supposed Short Career Span of a Programmer
 date: May 3, 2014
 category: code
+comments: true
 customid: week5culturalblog
 ---
 One of things that I hear about in Silicon Valley is how it's uncommon to be programming past your 40s. Similar to an athlete, it seems you are past your prime, and should be moved towards a management position if you still want to be working in the tech industry. This idea sounds a little frightening as I not going into the field fresh out of college. If there is such a cutoff for programmers in silicon valley, that would mean I would only have so many years left to pursue the craft of programming. I'd like to explore the possible reasons why this field seems to be intended for the young and youthful. 

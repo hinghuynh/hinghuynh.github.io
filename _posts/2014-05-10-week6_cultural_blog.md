@@ -3,6 +3,7 @@ layout: post
 title: Asian Stereotype actually a Threat?
 date: May 10, 2014
 category: code
+comments: true
 customid: week6culturalblog
 ---
 To be honest, as an Asian American, stereotypes for the most part against us have been shown in a positive light, almost to an extreme. We are seen as the model minority. Known to be hardworking, politically inactive, studious, intelligent, productive, and inoffensive people who have elevated their social standing through merit and diligence. 

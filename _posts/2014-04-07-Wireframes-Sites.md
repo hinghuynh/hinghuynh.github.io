@@ -1,3 +1,11 @@
+---
+layout: post
+title: Wireframes Sites
+date: April 13, 2014
+category: code
+comments: true
+customid: week1technicalblog
+---
 
 Mockup #1 Wmcmahan.com
 

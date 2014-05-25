@@ -3,6 +3,7 @@ layout: post
 title: Phase 0 Week 1 Reflections
 date: April 07, 2014
 category: code
+comments: true
 customid: week1reflections
 ---
 

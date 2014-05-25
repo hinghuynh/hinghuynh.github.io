@@ -3,6 +3,7 @@ layout: post
 title: SQL Injections
 date: May 17, 2014
 category: code
+comments: true
 customid: week7technical
 ---
 SQL injection is the use of code to exploit security vulnerabilities of SQL databases to manipulate or exploit the data that lies within the database. Successful malicious attempts of SQL injections can read sensitive data from the database, modifying database data using SQL commands like insert, update, or delete, as well as execute administration operations on the database. With these SQL injections, attackers can spoof identity or tamper with existing data such as voiding transaction or changing balances, disclosure all data on the system, or blatantly destroying all the data.

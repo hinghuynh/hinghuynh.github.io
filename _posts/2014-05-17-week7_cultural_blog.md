@@ -3,6 +3,7 @@ layout: post
 title: A Journey of a Thousand Miles Begins with a Single Step - Laozi
 date: May 17, 2014
 category: code
+comments: true
 customid: week7culturalblog
 ---
 Looking back at my values that I wrote about in an earlier blog post, I've noticed that thou I've picked personal growth as the value I choose to be most important. It has probably been the thing that has caused me the most pain in my years since college. I've noticed that I've generally set my expectations way higher than the actual outcomes of my ambitions. I'd like to think most people tend to underestimate the time to takes to complete a big task or the time it takes make a certain amount of progress on a goal. There's a quote that I like by Michelangelo, "The greater danger for most of us lies not in setting our aim too high and falling short; but in setting our aim too low, and achieving our mark." I've tried to live by these words, but often find myself wanting to give in. That the aspirations I've had were just not meant for me, at least not right now..	
