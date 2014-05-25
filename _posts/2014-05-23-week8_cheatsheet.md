@@ -4,7 +4,7 @@ title: Javascript Objects
 date: May 23, 2014
 category: code
 comments: true
-customid: week8technicalblog
+customid: week8html
 ---
 
 ####Object Literals 
