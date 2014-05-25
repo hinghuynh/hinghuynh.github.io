@@ -32,10 +32,12 @@ var obj = {
   1: 'one'									
 };											
 ```
-#####Property Access 
+####Property Access 
+
+
+#####Syntax
 
 ```
-Syntax
 name1[string]
 name2.identifier
 ```
