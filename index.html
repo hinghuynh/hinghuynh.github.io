@@ -7,7 +7,7 @@ title: Home
       {% if forloop.index == 1 %}
         {% include post_header.html %}
       {% endif %}
-      {% include post_index.html.excerpt %}
+      {% include post_index.html %}
     {% endfor %}
 
   {% if paginator.total_pages > 1 %}
