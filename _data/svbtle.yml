@@ -1,17 +1,17 @@
 ---
 subtitle: "Student at Dev Bootcamp"
-profile_url: http://hinghuynh.github.io/
+profile_url: http://hinghuynh.com/
 profile_name: Hing Huynh
-website_url: http://hinghuynh.github.io/
+website_url: http://hinghuynh.com/
 website_url_text: This is a nice blog with stuff
-website_url_about: http://hinghuynh.github.io/about
-website_name: hinghuynh.github.io
+website_url_about: http://hinghuynh.com/about
+website_name: hinghuynh.com
 email_with_subject: mailto:hinghuynh@gmail.com?subject=hi
 twitter: hinghuynh
 feed_url: http://feedurlhere.com
 typekit_url: typekiturlhere
 ga_account: your-ga-code-here
-ga_domain: http://hinghuynh.github.io/
+ga_domain: http://hinghuynh.com/
 
 # Enable kudos widget
 enable_kudos: true
