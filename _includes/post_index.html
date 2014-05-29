@@ -1,7 +1,10 @@
 <article class="post" id="{{post.customid}}">
   <h1 class="title"><a href="{{post.url}}">{{ post.title }}</a></h1>
 
-  {{ post.excerpt }}
+  {% if content %}
+    {{ content.excerpt }}
+  {% else %}
+    {{ post.content.excerpt }}
     <div class="button-container">
       <a class="read-more button" href="{{post.url}}">Continue reading</a>
     </div>
