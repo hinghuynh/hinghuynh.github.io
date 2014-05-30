@@ -1,8 +1,8 @@
 
 ---
 layout: post
-title: Chefs in the Kitchen
-date: May 16, 2014
+title: Kitchen vs. Table
+date: May 22, 2014
 category: code
 comments: true
 customid: week9culturalblog
