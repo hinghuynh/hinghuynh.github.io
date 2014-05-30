@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Kitchen vs. Table
-date: May 22, 2014
+title: Cooking in the Kitchen
+date: May 21, 2014
 category: code
 comments: true
 customid: week9culturalblog
@@ -10,4 +10,3 @@ After listening to [Shereef’s Fireside Chat](http://vimeo.com/85001014) about 
 I literally applied to Dev Bootcamp a week after the idea of possibly becoming a programmer.  When applying I had only about a week of ruby tutorials as my programming experience. I applied to the boot camp with a table mindset.  Thinking this would be a good way to find a high paying job secure job, key emphasis on “secure.”  I’m at point in my life where a stable nine to five job with a steady paycheck is super appealing.  My thought process went only as far as if I did the work required of me, I would have a high chance of landing a high paying junior developer position.  I didn’t really know if I was going to really enjoy programming or expect to enjoy the learning experience.  
 It wasn’t until I started doing some Ruby challenges in the pre Phase 0 prep work that I realize programming could be pretty enjoyable. You actually get use your thinking apparatus to creatively think of solutions.  I had this misconception that programming was more regurgitating syntax that you memorized to create a solution.  After solving some of the ruby challenges and getting access to my cohort’s completed solutions, I realize with exercises so simple there could still be many different approaches to get the same exact outcome.
 Throughout my academic career, I’ve always hated school for the most part.  I only realize that after finishing college, that I absolutely love learning, I just hated learning stuff I didn’t find particularly interesting or useful.  Most of school was just reciting things.  Since college I’ve read hundreds of books on all various topics that I find interesting in.  Going back to the kitchen and table analogy.  I went to the school with the table mindset, eating whatever course was presented to me.  Out of college when there weren’t any restrictions to what I could learn, I was in the kitchen designing my own education.
-Shereef encourages us take this boot camp experience into our own hands.  Instead doing the bare minimum just to get by, I should figure out what I want to get out of this experience, and put in my best effort to make every moment of my 9 weeks at the boot camp count.   I know have the mindset of an apprentice for software developer, and know there is a long journey ahead of me.   I want to end this post with a quote.>You don’t start out saying you’re going to build a wall. You don’t start off saying “I’m going to build the biggest, baddest, greatest wall ever.” You start with a brick. You say “I’m going to lay this brick as perfectly as a brick can be laid.” Do that every single day and soon you’ll have a PERFECT wall. – Will Smith
